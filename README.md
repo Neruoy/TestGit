@@ -82,3 +82,7 @@ Check modified logs
 git log
 ```
 
+Rename brunch
+```bash
+git branch -m oldBranchName newBranchName
+```
